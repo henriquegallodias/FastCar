@@ -18,7 +18,7 @@
   --white: #fff;
   --gray: #6c757d;
   --gray-dark: #343a40;
-  --primary: #007bff;
+  --primary: #808080;
   --secondary: #6c757d;
   --success: #28a745;
   --info: #17a2b8;
@@ -222,7 +222,7 @@ table {
 caption {
   padding-top: 0.75rem;
   padding-bottom: 0.75rem;
-  color: #6c757d;
+  color: #808080;
   text-align: left;
   caption-side: bottom;
 }
@@ -480,12 +480,12 @@ mark,
 
 .img-fluid {
   max-width: 100%;
-  height: auto;
+  height: 100%;
 }
 
 .img-thumbnail {
   padding: 0.25rem;
-  background-color: #fff;
+  background-color: #808080;
   border: 1px solid #dee2e6;
   border-radius: 0.25rem;
   max-width: 100%;
@@ -503,7 +503,7 @@ mark,
 
 .figure-caption {
   font-size: 90%;
-  color: #6c757d;
+  color: #;
 }
 
 code {
@@ -519,7 +519,7 @@ a > code {
 kbd {
   padding: 0.2rem 0.4rem;
   font-size: 87.5%;
-  color: #fff;
+  color: #808080;
   background-color: #212529;
   border-radius: 0.2rem;
 }
@@ -557,7 +557,7 @@ pre code {
 
 @media (min-width: 576px) {
   .container {
-    max-width: 540px;
+    max-width: 720px;
   }
 }
 
@@ -569,13 +569,13 @@ pre code {
 
 @media (min-width: 992px) {
   .container {
-    max-width: 960px;
+    max-width: 720px;
   }
 }
 
 @media (min-width: 1200px) {
   .container {
-    max-width: 1140px;
+    max-width: 720px;
   }
 }
 
@@ -596,7 +596,7 @@ pre code {
   margin-left: -15px;
 }
 
-.no-gutters {
+.no-gutters {SS
   margin-right: 0;
   margin-left: 0;
 }
@@ -1537,7 +1537,7 @@ pre code {
 }
 
 .table .table {
-  background-color: #fff;
+  background-color: #808080;
 }
 
 .table-sm th,
@@ -1710,7 +1710,7 @@ pre code {
 }
 
 .table .thead-dark th {
-  color: #fff;
+  color: #808080;
   background-color: #212529;
   border-color: #32383e;
 }
@@ -1722,7 +1722,7 @@ pre code {
 }
 
 .table-dark {
-  color: #fff;
+  color: #808080;
   background-color: #212529;
 }
 
@@ -1816,7 +1816,7 @@ pre code {
   font-size: 1rem;
   line-height: 1.5;
   color: #495057;
-  background-color: #fff;
+  background-color: #808080;
   background-clip: padding-box;
   border: 1px solid #ced4da;
   border-radius: 0.25rem;
@@ -2340,7 +2340,7 @@ fieldset:disabled a.btn {
 
 .btn-primary:hover {
   color: #fff;
-  background-color: #0069d9;
+  background-color: #808080;
   border-color: #0062cc;
 }
 
