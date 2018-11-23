@@ -1,1 +1,10 @@
-Logged in as henrique0521@hotmail.com
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php header( 'Location: /index.html') 
+<?php 
+?>
+
+</body>
+<html>
