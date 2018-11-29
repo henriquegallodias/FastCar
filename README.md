@@ -1,3 +1,23 @@
+    FastCar
+
+  Este projeto é uma atividade esolar da disciplina de pw1 do 1º módulo do cruso desenvolvimento de sistemas da ETEC Zona Leste.
+
+
+
+  Alunos:
+    Ayodele Adogunsile Oduduwa Costa.
+    Henrique Gallo Dias.
+
+
+
+
+
+
+  O Template usado para a crição desse site esta abaixo, com seus respectivos criadores.
+
+
+
+
 # [Start Bootstrap - 1 Col Portfolio](https://startbootstrap.com/template-overviews/1-col-portfolio/)
 
 [1 Col Portfolio](https://startbootstrap.com/template-overviews/1-col-portfolio/) is a single column portfolio layout template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
