@@ -1,15 +1,14 @@
-    FastCar
+   # FastCar
 
   Este projeto é uma atividade esolar da disciplina de pw1 do 1º módulo do cruso desenvolvimento de sistemas da ETEC Zona Leste.
 
+    # Alunos:
 
-
-  Alunos:
     Ayodele Adogunsile Oduduwa Costa.
     Henrique Gallo Dias.
 
-
-
+   https://fastcar2.herokuapp.com/
+   https://github.com/henriquegallodias/FastCar
 
 
 
